@@ -1,0 +1,15 @@
+D:\Misha\Учоба\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.exe
+D:\Misha\Учоба\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.deps.json
+D:\Misha\Учоба\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.runtimeconfig.json
+D:\Misha\Учоба\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.dll
+D:\Misha\Учоба\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.pdb
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.AssemblyReference.cache
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfoInputs.cache
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfo.cs
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.dll
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\refint\SnakeGame.dll
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.pdb
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.genruntimeconfig.cache
+D:\Misha\Учоба\SnakeGame\SnakeGame\obj\Debug\net6.0\ref\SnakeGame.dll
